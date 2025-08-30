@@ -18,3 +18,5 @@ EVA is a Python-based voice assistant that blends conversational AI, task automa
 - AI Models: Cohere, Groq, Hugging Face, edge-tts, mtranslate  
 - Libraries: asyncio, pyttsx3, SpeechRecognition, BeautifulSoup, PIL, pywhatkit  
 - APIs: Hugging Face, Groq, Cohere  
+
+- Watch the Demo : [Linkedin](https://www.linkedin.com/posts/shreeyapanda_ai-python-voiceassistant-activity-7362444554450472960-XiKK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF1ughAB6vTvwKeZUkgJhbHa3SOhg9uneRM)
